@@ -251,7 +251,7 @@ button:active {
 
 #nav > ul > li:hover > ul > li:hover {
     box-shadow: 0px 0px 2px #ccc inset;
-    background-color: rgb(238, 237, 237);
+    background-color: #fcf2fa;
 }
 
 /*--- Content ---*/
@@ -276,7 +276,6 @@ button:active {
 }
 
 #frase {
-    /* clear:both; */
     width: 180px;
     padding: 10px;
     font-size: 14px;
@@ -309,7 +308,6 @@ button:active {
     border: 1px solid #ccc;
     border-left: none;
     border-right: none;
-    /* margin-bottom: 12px; */
 }
 
 #aside li {
